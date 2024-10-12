@@ -1,0 +1,11 @@
+C:\Users\USSDPLPT47\source\repos\BancoCursoRESTFull\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\USSDPLPT47\source\repos\BancoCursoRESTFull\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\USSDPLPT47\source\repos\BancoCursoRESTFull\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\USSDPLPT47\source\repos\BancoCursoRESTFull\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USSDPLPT47\source\repos\BancoCursoRESTFull\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\USSDPLPT47\source\repos\BancoCursoRESTFull\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\USSDPLPT47\source\repos\BancoCursoRESTFull\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\USSDPLPT47\source\repos\BancoCursoRESTFull\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\USSDPLPT47\source\repos\BancoCursoRESTFull\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\USSDPLPT47\source\repos\BancoCursoRESTFull\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\USSDPLPT47\source\repos\BancoCursoRESTFull\Domain\obj\Debug\net8.0\ref\Domain.dll
